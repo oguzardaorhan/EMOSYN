@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+emoenv/
+venv/
+
+# macOS dosyaları
+.DS_Store
+
+# PyCharm veya diğer IDE
+.idea/
+*.iml
+
